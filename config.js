@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtu.be/ALQiRR1nzLI'
-global.sgh = 'https://github.com/Turu-bangun'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/6282214729677'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://instagram.com/ryannzx_store'
+global.syt = 'https://www.youtube.com/@ryanstore'
+global.sgh = 'https://github.com/YannPrtm'
+global.sgc = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'
+global.swa = 'wa.me/6282252285143'
+global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -44,15 +44,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '62823504965329'
+global.nomorown = '6282252285143'
+global.namebot = 'ʀʏᴀɴ ʙᴏᴛᴢ-ᴡᴀ'
+global.nameown = 'ʀʏᴀɴ ꜱᴛᴏʀᴇ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677', 'PutraModz', 'true']
+  ['6282252285143', 'ʀʏᴀɴ ꜱᴛᴏʀᴇ', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,35 +102,35 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraKeche'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'By ʀʏᴀɴ ʙᴏᴛᴢ ᴡʜᴀᴛꜱᴀᴘᴘ' //Main Watermark
+global.wm2 = 'ʀʏᴀɴ ꜱᴛᴏʀᴇ'
+global.wm3 = 'ʀʏᴀɴ ʙᴏᴛᴢ | By ʀʏᴀɴ ꜱᴛᴏʀᴇ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraKeche'
+global.author = 'ʀʏᴀɴ ʙᴏᴛᴢ' 
+global.packname = 'ʀʏᴀɴ ꜱᴛᴏʀᴇ'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Agustus 12 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'https://telegra.ph/file/9365fbb9e1f7436938f81.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/856959ba529d1f65f4789.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
-global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.giflogo2 = 'https://telegra.ph/file/856959ba529d1f65f4789.jpg'
+global.thumbs = ['https://telegra.ph/file/856959ba529d1f65f4789.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh PutraModz Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbBanned = 'https://telegra.ph/file/856959ba529d1f65f4789.jpg'
+global.thumbWarn = 'https://telegra.ph/file/856959ba529d1f65f4789.jpg'
+global.botintro = 'ʜᴀʟʟᴏ, ᴋᴇɴᴀʟɪɴ ꜱᴀʏᴀ ʀʏᴀɴʙᴏᴛᴢ ꜱᴀʏᴀ ᴀᴋᴀɴ ᴍᴇᴍʙᴀɴᴛᴜ ᴀɴᴅᴀ ᴋᴀᴘᴀɴ ᴘᴜɴ & ᴅɪᴍᴀɴᴀ ᴘᴜɴ, ꜱᴀʏᴀ ᴀꜱɪꜱᴛᴇɴ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʏᴀɴɢ ᴅɪ ʙᴜᴀᴛ ᴏʟᴇʜ ʀʏᴀɴ ꜱᴛᴏʀᴇ ꜱᴀʏᴀ ᴅɪ ʀɪʟɪꜱ ᴘᴀᴅᴀ ᴛᴀɴɢɢᴀʟ\ɴ🗓 ️_25/05/2022_'
+global.intro = 'https://telegra.ph/file/856959ba529d1f65f4789.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Putra'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nameowner = 'Ryan STORE'
+global.umurowner = '24'
+global.asalowner = 'Jawa Barat, Bandung'
+global.nomorowner = 'wa.me/6282252285143'
+global.pacarowner = 'Alya Eritha'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -143,7 +143,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://i.ibb.co/T0Lc5KL/20221218-005656.jpg'
+global.thumbdoc = 'https://ibb.co/5MVgK8C'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -378,8 +378,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `Putra`
+global.stickpack = 'ʀʏᴀɴ ʙᴏᴛᴢ'
+global.stickauth = `ʙʏ ʀʏᴀɴ ꜱᴛᴏʀᴇ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
