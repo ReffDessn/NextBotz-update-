@@ -201,7 +201,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `📛)ഒ Info Bot`, rowId: ".botinfo", description: "✧ Info nya NexBotz ><"},
+	    {title: `📛)ഒ Info Bot`, rowId: ".botinfo", description: "✧ Info nya RyanBotz ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
             {title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
             {title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
@@ -286,13 +286,13 @@ let tek = `    ⟪ *Yᴏᴜʀ Iɴғᴏ* ⟫ 
     
     ⟪ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 ⟫ 
     
-    ◉  𝙐𝙥𝙩𝙞𝙢𝙚 : *${mpt}*
-    ◉  𝙍𝙚𝙜𝙞𝙨𝙩𝙚𝙧:  *${Object.keys(global.db.data.users).length}*
-    ◉  𝙐𝙣𝙧𝙚𝙜: *${Object.values(global.db.data.users).filter(user => user.registered == true).length}*
-    ◉  𝙊𝙨 𝙋𝙡𝙖𝙩𝙛𝙧𝙤𝙢 : *${os.platform()}*`
+    ◉  Uptime : *${mpt}*
+    ◉  Register:  *${Object.keys(global.db.data.users).length}*
+    ◉  Unreg: *${Object.values(global.db.data.users).filter(user => user.registered == true).length}*
+    ◉  Os Platform : *${os.platform()}*`
 const listMessage = {
   text: tek,
-  footer: '© PutraModz | ALL RESERVED',
+  footer: '© ʀʏᴀɴ ʙᴏᴛᴢ | ᴀʟʟ ʀᴇꜱᴇʀᴠᴇᴅ',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
@@ -558,7 +558,7 @@ await conn[_0x187932(0x1c2)](m[_0x187932(0x1cf)], buttonMessage, {
 	return conn.sendButton(m.chat, bottime, text, `${imgr + 'Menu'}`, [["REFERAL", _p + "ref"], ["DONASI", _p + "donasi"], ["OWNER", _p + "owner"]], m, {
         contextInfo: {
             externalAdReply: {
-                mediaUrl: "https://youtu.be/ALQiRR1nzLI",
+                mediaUrl: "https://www.youtube.com/@ryanstore",
                 mediaType: "VIDEO",
                 title: `Hallo👋 ${name} ${ucpn}`,
                 body: `RUNTIME: ${mpt}`,
@@ -585,12 +585,12 @@ function _0x1766() {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By PutraModz',
+            footer: titlebot + '\n⚡ Supported By Ryan-Store',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+                        url: 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'
                     }
                 },
                 {
