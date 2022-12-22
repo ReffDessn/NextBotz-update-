@@ -11,44 +11,44 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Owner Menerima Save Contactn Asal Sopan Dalam Chat
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• Owner Hanya merespon yang berkaitan dengan BOT Dan JB
+• No Telp/Vc`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : PutraModz 
-${htjava} *✉️ Nama RL* : PUTRA
+${htjava} *💌 Nama* : Ryan Botz
+${htjava} *✉️ Nama RL* : Ryan Store
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : PRIVATE
-${htjava} *🧮 Kelas* : PRIVATE
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Jawa Barat, Kuningan 
-${htjava} *❤️ Waifu* : Amelia Putri septiany
+${htjava} *⏰ Tanggal lahir* : 12 Agustus 1997
+${htjava} *🎨 Umur* : Tebak Sendiri
+${htjava} *🧮 Kelas* : -
+${htjava} *🧩 Hobby* : JB
+${htjava} *💬 Sifat* : -
+${htjava} *🗺️ Tinggal* : Jawa Barat, Bandung
+${htjava} *❤️* : Alya Eritha Ryanna
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
+  let teks = 'ꜱɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴅɪʙᴀᴡᴀʜ ɪɴɪ'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
+	    {title: "ɴᴏᴍᴏʀ ᴏᴡɴᴇʀ", rowId: ".owner nomor"},
+	{title: "ʙɪᴏᴅᴀᴛᴀ", rowId: ".owner bio"},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
 	rows: [
-	    {title: "💹 • Donasi", rowId: ".donasi"},
-	{title: "🔖 • Sewa", rowId: ".sewa"},
-	{title: "🌟 • Buy Premium", rowId: ".premium"},
+	    {title: "ᴅᴏɴᴀꜱɪ", rowId: ".donasi"},
+	{title: "ꜱᴇᴡᴀʙᴏᴛ", rowId: ".sewa"},
+	{title: "ʙᴇʟɪ ᴘʀᴇᴍɪᴜᴍ", rowId: ".premium"},
 	]
   },
 ]

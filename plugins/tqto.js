@@ -57,29 +57,29 @@ Terimakasih Juga Untuk Kang Banned:
 • Orang-orang yang Berdonasi
 ─────────────────────`
   let buttonMessage= {
-'document':{'url':'https://youtu.be/dd2FWLD6H9Q'},
+'document':{'url':'https://www.youtube.com/@ryanstore'},
 'mimetype':global.ddocx,
-'fileName':'NexBotz',
+'fileName':'RYAN STORE X BOTZ',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'contextInfo':{
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://youtu.be/hklv-Ysqqac',
+'mediaUrl':'https://www.youtube.com/@ryanstore',
 'mediaType':2,
 'previewType':'pdf',
-'title':`A MIMIR🎧: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-'body':`By NexEp`,
+'title':`RYAN BOTZ 🎧: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
+'body':`By RynStr`,
 'thumbnail':await(await fetch('https://telegra.ph/file/fb6ed7b403be07c191060.jpg')).buffer(),
-'sourceUrl':'https://youtu.be/dd2FWLD6H9Q'}},
+'sourceUrl':'https://www.youtube.com/@ryanstore'}},
 'caption':cap,
 'footer':`Ini Ucapan Terima Kasih Untuk Orang Yang Telah Berpatisipasi
 
 ${botdate}`,
 'buttons':[
-{'buttonId':'.menu','buttonText':{'displayText':'▣ Mҽɳυ ▣'},'type':1},
-{'buttonId':'.salken','buttonText':{'displayText':'🎈Hαʅʅσ'},'type':1}
+{'buttonId':'.menu','buttonText':{'displayText':'▣ ᴍᴇɴᴜ ▣'},'type':1},
+{'buttonId':'.salken','buttonText':{'displayText':'🎈ʜᴀʟʟᴏ'},'type':1}
 ],
 'headerType':6}
     await conn.sendMessage(m.chat,buttonMessage, { quoted:m})

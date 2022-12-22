@@ -5,7 +5,7 @@ let handler = function (m) {
     //if (!isBaileys) throw 'Pesan tersebut bukan dikirim oleh bot!'
     conn.sendMessage(chat, { delete: m.quoted.vM.key })
 }
-handler.help = ['del', 'delete']
+handler.help = ['del', 'delete', 'd']
 handler.tags = ['tools']
 
 handler.command = /^del(ete)?$/i

@@ -15,7 +15,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
         ['ᴀᴜᴅɪᴏ', `.tiktokaudio ${args}`],
         [null, null]], m)
 }
-handler.help = ['tiktok', 'tiktok', 'tiktokdl'].map(v => v + ' <url>')
+handler.help = ['tiktok', 'tiktok', 'tt'].map(v => v + ' <url>')
 handler.tags = ['downloader']
 handler.command = /^(tik(tok)?(tok)?(dl)?)$/i
 
